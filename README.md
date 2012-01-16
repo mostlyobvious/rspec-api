@@ -25,6 +25,7 @@ TODO
 ----
 
 * add examples, for now have a look at: `https://github.com/zipmark/rspec_api_documentation/blob/master/example/spec/acceptance/orders_spec.rb`
+* add note about test client dependency injection
 * add copyrights and license
 * add tests from derived project
 * profit!
